@@ -30,7 +30,7 @@
   ],
   "main": "./lib/passport-strava",
   "dependencies": {
-    "pkginfo": "0.2.x",
+    "pkginfo": "0.4.x",
     "passport-oauth": "1.0.x"
   },
   "devDependencies": {
